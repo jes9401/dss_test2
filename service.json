@@ -1,0 +1,19 @@
+{
+  "name": "SEG-06",
+  "version": "1.0.0",
+  "keywords": [
+    "segmentation"
+  ],
+  "shortdesc": "infant segmentation",
+  "longdesc": "....",
+  "tags": [
+    {
+      "name": "Target Image",
+      "type": "MainImage",
+      "hint": "....",
+      "required": true
+    }
+  ],
+  "url": "http://blah.blah",
+  "citation": "http://blah.blah.blah"
+}    
